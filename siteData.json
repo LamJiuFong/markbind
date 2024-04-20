@@ -722,7 +722,8 @@
         "html-rendering-issues": "HTML Rendering Issues",
         "example-block-level-elements-inside-span-elements": "Example: block-level elements inside &lt;span&gt; elements",
         "markdown-rendering-issues": "Markdown Rendering Issues",
-        "example-correct-markdown-rendering-using-tags-or-newline": "Example: correct Markdown rendering using tags or newline:"
+        "example-correct-markdown-rendering-using-tags-or-newline": "Example: correct Markdown rendering using tags or newline:",
+        "content-with-local-links-not-working-when-included-with-include": "Content with local links not working when included with &lt;include&gt;"
       },
       "headingKeywords": {}
     },
